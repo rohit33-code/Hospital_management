@@ -66,6 +66,3 @@ ID:1 | Name: Alice | Age:30 | Gender: Female | Disease: Flu | Phone:9876543210
 ID:1 | Patient:1 | Doctor:1 | Date:12-01-2026 | Time:10:00 AM
 ```
 
-
-
-⭐ If you find this project useful, feel free to **star the repository** on GitHub!
